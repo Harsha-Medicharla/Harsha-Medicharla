@@ -8,7 +8,7 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/harsha-medicharla](https://www.linkedin.com/in/harsha-medicharla-5849a6282/)" target="_blank">
+  <a href="https://www.linkedin.com/in/harsha-medicharla-5849a6282" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Harsha Medicharla" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/jonsnow_001" target="_blank">
